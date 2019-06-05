@@ -10,7 +10,7 @@ public class Revers_num
 		{
 			s1=s1+m.charAt(i);
 			System.out.println(s1);
-			
+			//Thus is the revese String
 		}
 		if(m.equals(s1))
 		{
